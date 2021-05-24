@@ -12,7 +12,7 @@
         </el-select>
         <el-button type="primary" @click.native="addToScanTask" style="margin-left: 10px;">添加至扫描任务</el-button>
       </div>
-      <el-table :data="tableData" border highlight-current-row style="width: 100%;margin-top:30px;">
+      <el-table :data="tableData" border height="200" highlight-current-row style="width: 100%;margin-top:30px;">
         <el-table-column v-for="item of tableHeader" :key="item" :prop="item" :label="item" />
       </el-table>
     </div>

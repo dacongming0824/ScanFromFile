@@ -1,0 +1,24 @@
+{
+  "name": "ScanFromFile",
+  "publisher": "江州司马",
+  "description": "新建扫描任务时，可从文件导入资产IP",
+  "version": "0.1.0",
+  "icon": "./favicon.ico",
+  "engines": "1.6.170",
+  "initEvents": "",
+  "main": "./extension.js",
+  "contributes": {
+    "views": {
+      "scanDia": [
+        {
+            "command": "ScanFromFile",
+            "title": "ScanFromFile",
+            "icon": "./favicon.ico"
+        }
+    ]
+    }
+  },
+  "scripts": {},
+  "devDependencies": {},
+  "dependencies": {}
+}

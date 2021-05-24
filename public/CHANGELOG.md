@@ -2,4 +2,4 @@
 
 ### v0.1.0
 
-* **ScanFromFile:**  ([978cf2](https://github.com/dacongming0824/ScanFromFile/commit/dff795e83c3e6b38f69f97fa5a3bb5723c978cf2))
+* **ScanFromFile:**  ([9952772](https://github.com/dacongming0824/ScanFromFile/commit/c6b4d56deba7571c954632087d7d887d69952772))

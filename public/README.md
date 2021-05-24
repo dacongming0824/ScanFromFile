@@ -4,7 +4,7 @@
 
 1.安装
 
-2.在新建扫描任务窗口，点击插件，拖入excel文件，选择需要导入的IP列（目前仅支持本地读取xlsx,xls,csv格式）
+2.在新建扫描任务窗口，点击插件，拖入excel文件(windows下不支持拖拽操作)，选择需要导入的IP列（目前仅支持本地读取xlsx,xls,csv格式）
 
 ![](https://picbed-3fst.oss-cn-shanghai.aliyuncs.com/ScanFromFile-demo.gif)
 

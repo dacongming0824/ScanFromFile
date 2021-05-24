@@ -1,4 +1,4 @@
-# GobyExtension-ScanFromFile
+# [GobyExtension-ScanFromFile](https://github.com/dacongming0824/ScanFromFile)
 
 ## 快速开始
 
